@@ -1,4 +1,4 @@
-package org.painsomnia;
+package it.org.painsomnia;
 
 import com.atlassian.plugin.spring.scanner.annotation.imports.ComponentImport;
 import org.jboss.arquillian.container.test.api.Deployment;
